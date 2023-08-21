@@ -1,23 +1,36 @@
-### Hi there 👋
-I'm Alivn. I'm a new graduate and looking for a job.
-<br>
-I'm interested in mountain climbing and playing basketball.
+<img
+    alt="profile views"
+    src="https://komarev.com/ghpvc/?username=stoneshih225&style=flat&color=blue"
+/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<div  align="center">
+    <h2>
+        Hi there, I'm Alvin Shih
+        <img
+            alt="hi icon gif"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/hi.gif"
+            width="32"
+        />
+    </h2>
+    <p>I'm a self-taught passionate Front-end developer from Taiwan</p>
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/stoneshih225/stoneshih225/output/github-contribution-grid-snake-dark.svg"
+        />
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/stoneshih225/stoneshih225/output/github-contribution-grid-snake.svg"
+        />
+        <img
+            alt="github contribution grid snake animation"
+            src="https://raw.githubusercontent.com/stoneshih225/stoneshih225/output/github-contribution-grid-snake-dark.svg"
+        />
+    </picture>
+</div>
 
+<!-- <h1></h1> -->
 
-<!--
-**stoneshih225/stoneshih225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <div>
+    <h3>🛠️ Languages and Tools :</h3>
+</div> -->
