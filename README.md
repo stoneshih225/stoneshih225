@@ -12,7 +12,6 @@
             width="32"
         />
     </h2>
-    <p>I'm a self-taught passionate Front-end developer from Taiwan</p>
     <picture>
         <source
             media="(prefers-color-scheme: dark)"
@@ -28,9 +27,111 @@
         />
     </picture>
 </div>
+<h1></h1>
 
+<div>
+    <h3>👨‍💻 A Few Things About Me :</h3>
+    <p>I'm a self-taught passionate Front-end developer from Taiwan.</p>
+    <!-- update -->
+</div>
+<h1></h1>
+
+<div>
+    <h3>🛠️ Languages and Tools :</h3>
+    <div>
+        <img
+            width="40"
+            alt="html5"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/html5-original-wordmark.svg"
+        />
+        <img
+            width="40"
+            alt="css3"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/css3-original-wordmark.svg"
+        />
+        <img
+            width="40"
+            alt="javascript"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/javascript-original.svg"
+        />
+        <img
+            width="40"
+            alt="typescript"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/typescript-original.svg"
+        />
+        <img
+            width="40"
+            alt="vuejs"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/vuejs-original-wordmark.svg"
+        />
+        <img
+            width="40"
+            alt="react"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/react-original-wordmark.svg"
+        />
+        <img
+            width="40"
+            alt="eslint"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/eslint-original.svg"
+        />
+        <img
+            width="40"
+            alt="sass"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/sass-original.svg"
+        />
+        <img
+            width="40"
+            alt="stylelint"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/stylelint-svgrepo-com.svg"
+        />
+        <img
+            width="40"
+            alt="git"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/git-original.svg"
+        />
+        <img
+            width="40"
+            alt="materialui"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/materialui-original.svg"
+        />
+        <img
+            width="40"
+            alt="gsap-greensock"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/gsap-greensock.svg"
+        />
+        <img
+            width="50"
+            alt="pixijs"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/pixijs-svgrepo-com.svg"
+        />
+    </div>
+</div>
+<h1></h1>
+
+<div>
+    <h3>🔥 My Stats :</h3>
+    <img
+        alt="GitHub Streak"
+        src="https://streak-stats.demolab.com?user=stoneshih225&theme=rising-sun&border_radius=5"
+    />
+    <!-- fix -->
+    <!-- <img
+        alt="Top Langs"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoneshih225&layout=compact&theme=vision-friendly-dark"
+    /> -->
+</div>
 <!-- <h1></h1> -->
 
-<!-- <div>
-    <h3>🛠️ Languages and Tools :</h3>
-</div> -->
+<br /><br />
+<h1></h1>
+<div>
+    <a
+        alt="https://github.com/stoneshih225"
+        href="https://github.com/stoneshih225"
+    >
+        <img
+            alt="created by alvin shih"
+            src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Alvin%20Shih&color=000000"
+        />
+    </a>
+</div>
