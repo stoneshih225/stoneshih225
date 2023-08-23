@@ -3,6 +3,7 @@
     src="https://komarev.com/ghpvc/?username=stoneshih225&style=flat&color=blue"
 />
 
+<!-- header -->
 <div  align="center">
     <h2>
         Hi there, I'm Alvin Shih
@@ -29,13 +30,22 @@
 </div>
 <h1></h1>
 
+<!-- A Few Things About Me -->
 <div>
     <h3>👨‍💻 A Few Things About Me :</h3>
-    <p>I'm a self-taught passionate Front-end developer from Taiwan.</p>
-    <!-- update -->
+    <!-- <p>I'm a self-taught passionate Front-end developer from Taiwan.</p> -->
+    <p><strong><i>I'm currently looking for a new job in Taipei, New Taipei, Hsinchu, Taichung or remote positions.</i></strong></p>
+    <ul>
+        <li>💪 I'm a self-taught passionate Front-end developer from Taiwan.</li>
+        <li>🔭 I’m working as a Front-end engineer and contributing to frontend for building web applications.</li>
+        <li>⚡ In my free time, I enjoy reading tech articles, food, anime, playing darts, and having fun with my friends.</li>
+        <!-- TODO: update How to reach me -->
+        <li>📫 How to reach me:</li>
+    </ul>
 </div>
 <h1></h1>
 
+<!-- Languages and Tools -->
 <div>
     <h3>🛠️ Languages and Tools :</h3>
     <div>
@@ -108,20 +118,20 @@
 </div>
 <h1></h1>
 
+<!-- My Stats -->
 <div>
     <h3>🔥 My Stats :</h3>
     <img
         alt="GitHub Streak"
         src="https://streak-stats.demolab.com?user=stoneshih225&theme=rising-sun&border_radius=5"
     />
-    <!-- fix -->
     <!-- <img
         alt="Top Langs"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoneshih225&layout=compact&theme=vision-friendly-dark"
     /> -->
 </div>
-<!-- <h1></h1> -->
 
+<!-- footer -->
 <br /><br />
 <h1></h1>
 <div>
