@@ -14,6 +14,7 @@
         />
         <!-- link tree -->
         <div>
+            <br />
             <a href="www.linkedin.com/in/alvin-shih-099194274">
                 <img
                     alt="www.linkedin.com/in/alvin-shih-099194274"
@@ -56,7 +57,7 @@
                 <img
                     alt="www.linkedin.com/in/alvin-shih-099194274"
                     src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&for-the-badge&logo=linkedin&logoColor=white"
-                    width="75"
+                    width="70"
                 />
             </a>
         </li>
