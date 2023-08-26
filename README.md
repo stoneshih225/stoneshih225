@@ -15,9 +15,13 @@
         <!-- link tree -->
         <div>
             <br />
-            <a href="www.linkedin.com/in/alvin-shih-099194274">
+            <a
+                rel="noopener"
+                target="_blank"
+                href="https://www.linkedin.com/in/alvin-shih-099194274/"
+            >
                 <img
-                    alt="www.linkedin.com/in/alvin-shih-099194274"
+                    alt="https://www.linkedin.com/in/alvin-shih-099194274/"
                     src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&for-the-badge&logo=linkedin&logoColor=white"
                     width="90"
                 />
@@ -53,9 +57,13 @@
         <!-- TODO: update How to reach me -->
         <li>
             📫 How to reach me :
-            <a href="www.linkedin.com/in/alvin-shih-099194274">
+            <a
+                rel="noopener"
+                target="_blank"
+                href="https://www.linkedin.com/in/alvin-shih-099194274/"
+            >
                 <img
-                    alt="www.linkedin.com/in/alvin-shih-099194274"
+                    alt="https://www.linkedin.com/in/alvin-shih-099194274/"
                     src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&for-the-badge&logo=linkedin&logoColor=white"
                     width="70"
                 />
@@ -156,7 +164,8 @@
 <h1></h1>
 <div>
     <a
-        alt="https://github.com/stoneshih225"
+        rel="noopener"
+        target="_blank"
         href="https://github.com/stoneshih225"
     >
         <img
