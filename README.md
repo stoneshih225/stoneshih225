@@ -4,7 +4,7 @@
 />
 
 <!-- header -->
-<div  align="center">
+<div align="center">
     <h2>
         Hi there, I'm Alvin Shih
         <img
@@ -12,6 +12,16 @@
             src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/hi.gif"
             width="32"
         />
+        <!-- link tree -->
+        <div>
+            <a href="www.linkedin.com/in/alvin-shih-099194274">
+                <img
+                    alt="www.linkedin.com/in/alvin-shih-099194274"
+                    src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&for-the-badge&logo=linkedin&logoColor=white"
+                    width="90"
+                />
+            </a>
+        </div>
     </h2>
     <picture>
         <source
@@ -40,7 +50,16 @@
         <li>🔭 I’m working as a Front-end engineer and contributing to frontend for building web applications.</li>
         <li>⚡ In my free time, I enjoy reading tech articles, food, anime, playing darts, and having fun with my friends.</li>
         <!-- TODO: update How to reach me -->
-        <li>📫 How to reach me:</li>
+        <li>
+            📫 How to reach me :
+            <a href="www.linkedin.com/in/alvin-shih-099194274">
+                <img
+                    alt="www.linkedin.com/in/alvin-shih-099194274"
+                    src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&for-the-badge&logo=linkedin&logoColor=white"
+                    width="75"
+                />
+            </a>
+        </li>
     </ul>
 </div>
 <h1></h1>
