@@ -5,13 +5,13 @@
 
 <!-- header -->
 <div align="center">
+    <img
+        alt="hi icon gif"
+        src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/hi.gif"
+        width="32"
+    />
     <h2>
         Hi there, I'm Alvin Shih
-        <img
-            alt="hi icon gif"
-            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/hi.gif"
-            width="32"
-        />
         <!-- link tree -->
         <div>
             <br />
@@ -102,11 +102,11 @@
             alt="vuejs"
             src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/vuejs-original-wordmark.svg"
         />
-        <img
+<!--         <img
             width="40"
             alt="react"
             src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/react-original-wordmark.svg"
-        />
+        /> -->
         <img
             width="40"
             alt="eslint"
@@ -127,11 +127,11 @@
             alt="git"
             src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/git-original.svg"
         />
-        <img
+<!--         <img
             width="40"
             alt="materialui"
             src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/materialui-original.svg"
-        />
+        /> -->
         <img
             width="40"
             alt="gsap-greensock"
