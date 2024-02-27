@@ -49,7 +49,7 @@
 <div>
     <h3>👨‍💻 A Few Things About Me :</h3>
     <!-- <p>I'm a self-taught passionate Front-end developer from Taiwan.</p> -->
-    <p><strong><i>I'm currently looking for a new job in Taipei, New Taipei, Hsinchu, Taichung or remote positions.</i></strong></p>
+    <p><strong><i>I'm currently looking for a new job in Taipei, New Taipei, Hsinchu or remote positions.</i></strong></p>
     <ul>
         <li>💪 I'm a self-taught passionate Front-end developer from Taiwan.</li>
         <li>🔭 I’m working as a Front-end engineer and contributing to frontend for building web applications.</li>
