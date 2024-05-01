@@ -49,14 +49,23 @@
 <div>
     <h3>👨‍💻 A Few Things About Me :</h3>
     <!-- <p>I'm a self-taught passionate Front-end developer from Taiwan.</p> -->
-    <p><strong><i>I'm currently looking for a new job in Taipei, New Taipei, Hsinchu or remote positions.</i></strong></p>
+    <p><strong><i>I'm currently seeking new job opportunities in Taipei, New Taipei, Hsinchu, or remote positions.</i></strong></p>
+    <p>
+        If there are any job opportunities for <strong><i>front-end engineers</i></strong>, please feel free to reach out to me via 
+        <a
+            rel="noopener"
+            target="_blank"
+            href="https://www.linkedin.com/in/alvin-shih-099194274/"
+        >
+        LinkedIn.
+        </a>
+    </p>
     <ul>
-        <li>💪 I'm a self-taught passionate Front-end developer from Taiwan.</li>
-        <li>🔭 I’m working as a Front-end engineer and contributing to frontend for building web applications.</li>
-        <li>⚡ In my free time, I enjoy reading tech articles, food, anime, playing darts, and having fun with my friends.</li>
-        <!-- TODO: update How to reach me -->
+        <li>I am a passionate software engineer with <strong><ins>nearly 3 years</ins></strong> of experience in <strong><ins>front-end development</ins></strong>.</li>
+        <li>Proficient in utilizing the <strong><ins>Vue.js</ins></strong> framework alongside animation libraries to develop products with visually appealing effects and excellent user experience.</li>
+        <li>In my previous roles, I focused on optimizing workflows, problem-solving, and enhancing team productivity and project quality.</li>
         <li>
-            📫 How to reach me :
+            How to reach me :
             <a
                 rel="noopener"
                 target="_blank"
