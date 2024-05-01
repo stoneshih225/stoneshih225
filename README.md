@@ -79,16 +79,6 @@
     <div>
         <img
             width="40"
-            alt="html5"
-            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/html5-original-wordmark.svg"
-        />
-        <img
-            width="40"
-            alt="css3"
-            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/css3-original-wordmark.svg"
-        />
-        <img
-            width="40"
             alt="javascript"
             src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/javascript-original.svg"
         />
@@ -101,6 +91,16 @@
             width="40"
             alt="vuejs"
             src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/vuejs-original-wordmark.svg"
+        />
+        <img
+            width="40"
+            alt="html5"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/html5-original-wordmark.svg"
+        />
+        <img
+            width="40"
+            alt="css3"
+            src="https://github.com/stoneshih225/stoneshih225/raw/main/assets/css3-original-wordmark.svg"
         />
 <!--         <img
             width="40"
